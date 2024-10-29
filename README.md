@@ -3,7 +3,7 @@ This repository features an AI-powered mentoring chatbot designed to assist user
 
 ## You can try out the AI Mentor chatbot directly through this live app:
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_orange_white.svg)](https://ai-mentor.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-mentor.streamlit.app/)
 
 Click the link above to access the app.
 
