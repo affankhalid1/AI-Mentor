@@ -1,6 +1,12 @@
 # AI Mentor
 This repository features an AI-powered mentoring chatbot designed to assist users in learning AI topics, including Machine Learning (ML), Deep Learning (DL), and Generative AI. With personalized guidance and interactive Q&amp;A, it aims to enhance understanding and empower users to achieve their educational goals in artificial intelligence.
 
+## You can try out the AI Mentor chatbot directly through this live app:
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_orange_white.svg)](https://ai-mentor.streamlit.app/)
+
+Click the link above to access the app.
+
 ## Steps to run the AI Mentor locally:
 
 1: **Set up API Key:**
